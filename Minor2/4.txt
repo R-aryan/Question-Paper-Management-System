@@ -1,0 +1,23 @@
+3.Suppose we are sorting an array of eight integers using heapsort, and we have just finished some heapify (either maxheapify or minheapify) operations. The array now looks like this: 16 14 15 10 12 27 28 How many heapify operations have been performed on root of heap?
+
+A.1
+B.2
+C.3 or 4
+D.5 or 6
+
+4.Suppose we have a graph which also consists of disconnected components. Which graph traversal algorithm is well suited for traversing such type of graphs?
+
+A.BFS graph traversal
+B.DFS graph traversal
+C.Both can be used
+D.None of the above.
+
+5.Which of the following standard algorithms is not a Greedy algorithm?
+
+A.Prim’s algorithm for minimum spanning tree
+B.Kruskal algorithm for minimum spanning tree
+C.Bellman ford shortest path algorithm
+D.None of the above
+
+
+

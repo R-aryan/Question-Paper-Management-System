@@ -1,0 +1,33 @@
+6.	Which of the following is true about Kruskal and Prim MST algorithms? Assume that Prim is implemented for adjacency list representation using Binary Heap and Kruskal is implemented using union by rank.
+
+A.	Worst case time complexity for both algorithm is same
+B.	 Worst case time complexity for Kruskal algorithm is better than Prim’s
+C.	Worst case time complexity for Prim’s algorithm is better than Kruskal’s
+D.	All of the above
+
+7.	Which of the following is true about Huffman Coding.
+
+A.	Huffman Coding may become lossy in some cases
+B.	Huffman codes may not be optimal lossless code in some cases
+C.	In Huffman coding no code is prefix of any other code.
+D.	All of the above
+
+8.	Which of the following algorithms can be used to most efficiently determine the presence of a cycle in a given graph ?
+
+A.	DFS1
+B.	BFS
+C.	Prim’s algorithm for minimum spanning tree
+D.	Kruskal algorithm for minimum spanning tree
+
+9.	What are the appropriate data structures for following algorithms?
+
+
+1) Breadth First Search                           
+2) Depth First Search                            
+3) Prim's Minimum Spanning Tree                 
+4) Kruskal' Minimum Spanning Tree   
+  A. 1-Stack, 2- Queue, 3- Binary tree,4- Union Find
+  B. 1-Stack ,2-Queue, 3- trie , 4- Binary heap
+ C. 1-Stack, 2- Queue, 3- Binary tree,4- Max Heap
+D. 1-Queue, 2- Stack, 3- Priority Queue ,4- Union Find
+

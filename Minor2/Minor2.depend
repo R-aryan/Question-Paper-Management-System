@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1525325449 source:g:\code_chef\minor2\main.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	<string>
+	<algorithm>
+	<vector>
+	<ctime>
+	<chrono>
+	<cstdlib>
+	<map>
+	<cstring>
+	<fstream>
+
