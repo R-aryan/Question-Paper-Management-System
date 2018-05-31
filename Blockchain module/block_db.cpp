@@ -144,9 +144,9 @@ bool Blockchain::isChainValid(){
 
     Block *hackBlock=jazzCoin.getLatestBlock();
     hackBlock->data.amount=1000;
-    cout<<"Is chain valid ?"<<endl<<jazzCoin.isChainValid()<<endl;
+    cout<<"Is chain valid ?"<<endl<<jazzCoin.isChainValid()<<"\n";
 
 
 
-    //return 0;
+    return 0;
  }
