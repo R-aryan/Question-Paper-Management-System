@@ -3,12 +3,12 @@
 #include<vector>
 using namespace std;
 
-struct TransactionData{
+/*struct TransactionData{
     double amount ;
     string senderKey;
     string receiverKey;
     time_t timestamp;
-};
+}; */
 
 
 
